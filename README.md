@@ -9,8 +9,6 @@ Need to install:
 
 ## Method
 
-Open image in Fiji
-
 Open script in Fiji and run. 
 
 Three inputs are requested:
