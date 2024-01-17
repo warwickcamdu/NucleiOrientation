@@ -42,9 +42,8 @@ Ext.CLIJ2_release(image_1);
 
 //Ext.CLIJ2_pull(image_2);
 
-// Threshold Max Entropy
-Ext.CLIJ2_thresholdMaxEntropy(image_2, image_3);
-//Ext.CLIJ2_thresholdTriangle(image_2, image_3);
+// Threshold Triangle
+Ext.CLIJ2_thresholdTriangle(image_2, image_3);
 Ext.CLIJ2_release(image_2);
 
 //Ext.CLIJ2_pull(image_3);
